@@ -19,12 +19,13 @@ Pet Feeder CAM V4.0 is an IoT project developed by Team Pet Feeder for remotely 
 - **Requests Library**: Facilitates HTTP requests to fetch the webcam feed from the specified URL.
 - **NumPy**: Utilized for numerical operations, array manipulation, and efficient data handling.
 - **Imutils**: Provides convenient functions for resizing images, an essential task in image processing applications.
+- **Arduino**: Integrated with the ESP8266 microcontroller to enhance functionality or control additional hardware components.
 
 ### Hardware Stack
 - **ESP8266 Microcontroller**: Powers the pet feeder system, allowing it to connect to the Wi-Fi network and serve the web interface.
 - **Servo Motor**: Controls the opening and closing of the pet feeder to dispense food to the pets.
 - **Webcam**: Provides live video feed for surveillance and interaction with pets.
-- **Power Supply**: Powers the ESP8266 microcontroller and servo motor to ensure continuous operation of the pet feeder system.
+- **Power Supply**: Powers the ESP8266 microcontroller, Arduino, and servo motor to ensure continuous operation of the pet feeder system.
 - **Enclosure**: Provides a housing for the hardware components, ensuring protection and stability.
 
 ### Installation
@@ -38,10 +39,10 @@ Pet Feeder CAM V4.0 is an IoT project developed by Team Pet Feeder for remotely 
 - Adjust settings in the web interface for personalized control.
 
 ### Contributors
-- Alan 
-- Bijili
+- Alan
 - Litty
 - Nandhna
+- Bijili
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
