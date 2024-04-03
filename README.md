@@ -1,7 +1,6 @@
 **Pet Feeder CAM V4.0 (Dual Mode) by Team Pet Feeder**
 
 
-
 ### Overview
 Pet Feeder CAM V4.0 is an IoT project developed by Team Pet Feeder for remotely monitoring and feeding pets. This project incorporates two modes: Surveillance Mode and Feeder Mode, providing users with versatile functionalities to ensure the well-being of their pets even when they are away.
 
@@ -39,10 +38,10 @@ Pet Feeder CAM V4.0 is an IoT project developed by Team Pet Feeder for remotely 
 - Adjust settings in the web interface for personalized control.
 
 ### Contributors
-- Alan Cyril
-- Bijali Gupta
-- Litty Mathew
-- Nandhana Raj
+- Alan 
+- Bijili
+- Litty
+- Nandhna
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
