@@ -50,4 +50,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Acknowledgements
 Special thanks to the creators of OpenCV, YOLO, and all contributors to the libraries and frameworks used in this project.
 
-For detailed documentation and updates, visit the [project repository](https://github.com/team-pet-feeder/pet-feeder-cam). Feel free to contribute and enhance the functionality of Pet Feeder CAM V4.0! 🐾🤖
+For detailed documentation and updates, visit the [project repository](https://github.com/team-pet-feeder/pet-feeder-cam). Feel free to contribute and enhance the functionality of Pet Feeder CAM V5.4! 🐾🤖
