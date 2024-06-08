@@ -2,7 +2,7 @@
 
 
 ### Overview
-Pet Feeder CAM V5.4 is an IoT project developed by Team Pet Feeder for remotely monitoring and feeding pets. This project incorporates two modes: Surveillance Mode and Feeder Mode, providing users with versatile functionalities to ensure the well-being of their pets even when they are away.
+Pet Feeder CAM V5.4 is an IoT project developed by Alan Cyril for remotely monitoring and feeding pets. This project incorporates two modes: Surveillance Mode and Feeder Mode, providing users with versatile functionalities to ensure the well-being of their pets even when they are away.
 
 ### Features
 - **Surveillance Mode**: Utilizes YOLO (You Only Look Once) object detection for real-time monitoring of pet activities.
