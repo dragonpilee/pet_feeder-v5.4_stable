@@ -2,9 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![OpenCV](https://img.shields.io/badge/Computer_Vision-OpenCV-red)
-![YOLO](https://img.shields.io/badge/Object_Detection-YOLO-yellow)
-![Haar Cascade](https://img.shields.io/badge/Face_Detection-Haar_Cascade-lightgrey)
-![NumPy](https://img.shields.io/badge/Math-NumPy-purple)
 ![Requests](https://img.shields.io/badge/HTTP-Requests-brightgreen)
 ![Imutils](https://img.shields.io/badge/Utils-Imutils-orange)
 ![ESP8266](https://img.shields.io/badge/Hardware-ESP8266-informational)
